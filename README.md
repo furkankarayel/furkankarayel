@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Furkan and I'm a Fullstack Software Developer, from Switzerland 🇨🇭</p>
+<p align="left">My name is Furkan and I'm a Fullstack Software Developer, from Switzerland🇨🇭</p>
 
 ###
 
