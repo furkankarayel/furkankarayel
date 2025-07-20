@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs professionally since 2015 <br>🎯 Next Goal: building a devops board for managing apps on a cloud VPS and more ;)</p>
+<p align="left">✨ Creating bugs professionally since 2015 😂<br></p>
 
 ###
 
